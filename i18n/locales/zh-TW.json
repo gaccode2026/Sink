@@ -124,9 +124,9 @@
       }
     },
     "cta": {
-      "title": "立即部署",
-      "description": "只需幾個簡單的點擊，您就可以免費開始部署",
-      "button": "開始部署"
+      "title": "立即使用",
+      "description": "只需幾個开启你的新征程！",
+      "button": "開始使用"
     },
     "logos": {
       "title": "使用優秀的技術構建"
@@ -135,7 +135,7 @@
       "follow": "在 X(Twitter) 上追蹤我"
     },
     "stats": {
-      "title": "有關 Sink 的數據",
+      "title": "fcai-Sink 的數據",
       "subtitle": "受到全球開發者信賴",
       "stars": "個 GitHub 星星",
       "forks": "次分叉"
