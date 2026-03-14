@@ -124,9 +124,9 @@
       }
     },
     "cta": {
-      "title": "立即部署",
-      "description": "只需几个简单的点击，您就可以免费开始部署",
-      "button": "开始部署"
+      "title": "立即使用",
+      "description": "使用FCAI，开启你的新征程吧！",
+      "button": "开始使用"
     },
     "logos": {
       "title": "使用优秀的技术构建"
@@ -135,7 +135,7 @@
       "follow": "在 X(Twitter) 上关注我"
     },
     "stats": {
-      "title": "Sink 数据",
+      "title": "Fcai-Sink 数据",
       "subtitle": "受到全球开发者的信赖",
       "stars": "GitHub Stars",
       "forks": "Forks"
