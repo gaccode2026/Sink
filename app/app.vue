@@ -5,7 +5,7 @@ const { title, description, image } = useAppConfig()
 const route = useRoute()
 
 useSeoMeta({
-  title: `${title} - Link Shortener with Analytics`,
+  title: `${title} - A Link Analytics`,
   description,
   ogType: 'website',
   ogTitle: title,
