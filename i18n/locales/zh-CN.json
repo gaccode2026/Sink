@@ -69,30 +69,30 @@
   },
   "home": {
     "hero": {
-      "github_repo": "GitHub 仓库"
+      "github_repo": "我的仓库哈"
     },
     "features": {
       "title": "功能特点",
       "subtitle": "简单而实用的功能",
       "url_shortening": {
-        "title": "URL 缩短",
-        "description": "将您的 URL 压缩到最小长度"
+        "title": "生日祝福",
+        "description": "定时定点给你发送节日祝福"
       },
       "analytics": {
         "title": "数据分析",
-        "description": "监控链接分析并收集有价值的统计数据"
+        "description": "监控分析并收集有价值的统计数据"
       },
       "serverless": {
         "title": "无服务器",
         "description": "无需传统服务器即可部署"
       },
       "customizable_slug": {
-        "title": "自定义短链",
-        "description": "支持个性化短链和大小写敏感"
+        "title": "自定义闹钟",
+        "description": "支持个性化和大小写敏感"
       },
       "ai_slug": {
-        "title": "AI 短链",
-        "description": "利用 AI 生成短链"
+        "title": "AI 价值",
+        "description": "利用 AI 判断价值"
       },
       "link_expiration": {
         "title": "链接过期",
@@ -112,7 +112,7 @@
       },
       "qr_code": {
         "title": "二维码",
-        "description": "为短链生成二维码"
+        "description": "为链接生成二维码"
       },
       "import_export": {
         "title": "导入/导出",
