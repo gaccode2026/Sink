@@ -161,7 +161,7 @@ const { stats } = useGithubStats()
             <small class="block text-center text-sm text-muted-foreground">
               &copy; {{ new Date().getFullYear() }}
               <a
-                href="https://html.zone"
+                href="https://baidu.com"
                 target="_blank"
                 title="HTML.ZONE"
                 class="hover:text-primary"
